@@ -1,0 +1,12 @@
+.Chart {
+  position: static;
+  text-align: center;
+}
+.buttons {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.btn {
+  display: block;
+}
